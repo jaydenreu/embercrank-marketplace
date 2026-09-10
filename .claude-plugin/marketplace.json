@@ -1,0 +1,26 @@
+{
+  "name": "embercrank",
+  "owner": {
+    "name": "Nateleigh Group",
+    "email": "contact@embercrank.com"
+  },
+  "description": "Install the Embercrank coding-task routing connector.",
+  "version": "0.1.0-beta.9",
+  "plugins": [
+    {
+      "name": "embercrank",
+      "source": "./plugins/claude/embercrank",
+      "description": "Route and run bounded coding tasks through Embercrank.",
+      "version": "0.1.0-beta.9",
+      "author": {
+        "name": "Nateleigh Group"
+      },
+      "category": "Productivity",
+      "tags": [
+        "routing",
+        "coding-agents",
+        "productivity"
+      ]
+    }
+  ]
+}

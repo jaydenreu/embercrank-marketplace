@@ -1,0 +1,19 @@
+{
+  "name": "embercrank",
+  "version": "0.1.0-beta.9",
+  "description": "Route and run coding tasks from your conversation",
+  "author": {
+    "name": "Embercrank"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Embercrank",
+    "shortDescription": "Route, run and check coding tasks.",
+    "longDescription": "Use the local Embercrank adapter to route coding tasks, start bounded jobs, check progress and cancel. Private development build; host installation and customer onboarding remain unverified.",
+    "developerName": "Embercrank",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Embercrank."
+  },
+  "mcpServers": "./.mcp.json"
+}

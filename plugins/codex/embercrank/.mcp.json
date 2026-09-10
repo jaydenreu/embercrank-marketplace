@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "embercrank": {
+      "command": "node",
+      "args": [
+        "./mcp.mjs"
+      ],
+      "cwd": ".",
+      "env_vars": [
+        "EMBERCRANK_ALLOWED_ROOTS",
+        "EMBERCRANK_URL",
+        "EMBERCRANK_SERVICE_URL",
+        "EMBERCRANK_GATEWAY_TOKEN",
+        "EMBERCRANK_CONFIG_DIR",
+        "EMBERCRANK_TOKEN"
+      ]
+    }
+  }
+}
