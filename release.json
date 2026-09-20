@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "product": "embercrank",
-  "version": "0.1.0-beta.9",
-  "tag": "v0.1.0-beta.9",
+  "version": "0.1.0-beta.11",
+  "tag": "v0.1.0-beta.11",
   "repository": "jaydenreu/embercrank-marketplace",
   "status": "private-review-candidate",
   "published": false,
@@ -14,18 +14,18 @@
   "files": [
     {
       "path": ".agents/plugins/marketplace.json",
-      "bytes": 409,
-      "sha256": "b2f79f8ffc10e3626404f1f4ddeae0c449234e984b4d8a79ebbde1fdd28ec68b"
+      "bytes": 410,
+      "sha256": "4b9899e2cd80d084e3ce24ceef6c31f2fc819fec5dd340adeb2ada580e6eb2c3"
     },
     {
       "path": ".claude-plugin/marketplace.json",
-      "bytes": 622,
-      "sha256": "e027bb01bc12707fa1731c73f9beae1282abb02ba4b19fec30502bb511c420f4"
+      "bytes": 624,
+      "sha256": "e6590e2568890fccdacb3fb6dd3af9ebc6699da4212e4715ed27b6010e7b084f"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 307,
-      "sha256": "9635c4c88d1a225b74a89f1f50fa91e924a514daf25f56ee986f451e245d0cb4"
+      "bytes": 308,
+      "sha256": "229bc479aaca7f2775e363ee14d42b16e13183ef04613eafb6ff78e504c7efdf"
     },
     {
       "path": "LICENSE.md",
@@ -34,8 +34,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2423,
-      "sha256": "fe24a73606c568d43914ef4b44bcbc8b2f30eb3af47b4b7a6b0c112ec27f092c"
+      "bytes": 2425,
+      "sha256": "6c572d8a77bce564fa2635dc94b5cf36279711563539a91dedb35089ac652fde"
     },
     {
       "path": "SECURITY.md",
@@ -44,8 +44,8 @@
     },
     {
       "path": "plugins/claude/embercrank/.claude-plugin/plugin.json",
-      "bytes": 169,
-      "sha256": "c42890c7879d2f450dc1ed601b9342f0fab72780f754e3a13834452a4fb297b7"
+      "bytes": 170,
+      "sha256": "96d6d1c307ebaf6e98ab74960aa21e1ab38cc0a685e7a4cfb7858412276e11b8"
     },
     {
       "path": "plugins/claude/embercrank/.mcp.json",
@@ -69,28 +69,28 @@
     },
     {
       "path": "plugins/claude/embercrank/build.json",
-      "bytes": 1221,
-      "sha256": "4cf52392e631872fd1cebf3976b9c6b5883e33bdcc28d04793717f5df53c208d"
+      "bytes": 1222,
+      "sha256": "89cf540180eed2ad9c96eed2cfeff570e4aa57f266916c0ddd9770f501297fbc"
     },
     {
       "path": "plugins/claude/embercrank/cli.mjs",
-      "bytes": 94915,
-      "sha256": "2ad2915e3520f553d3d91e547d3358b805ae1e7c7a0a39854a175ea824252ed0"
+      "bytes": 140150,
+      "sha256": "351a2b38b4e9a78dbd9f17698d963b02f50db3c0fffc48d4271cf957a72aa86c"
     },
     {
       "path": "plugins/claude/embercrank/mcp.mjs",
-      "bytes": 817818,
-      "sha256": "1d5fd9cbc50fab071444109d141b564bc3367c6b8b42b9a097915265cccbbcab"
+      "bytes": 864818,
+      "sha256": "2813015549f72851cc6069fe4c19e50f7e6e970b54e70ab35d8f3f746d195714"
     },
     {
       "path": "plugins/claude/embercrank/skills/route/SKILL.md",
-      "bytes": 4998,
-      "sha256": "557041f68d906ece8bad545c7a0a194aaa643412e30cca011a5863a5e8130c4e"
+      "bytes": 6454,
+      "sha256": "0ff3039f7ec1f499b28bd4385eb491645ed409c28c784df6f168f471da08eaaf"
     },
     {
       "path": "plugins/codex/embercrank/.codex-plugin/plugin.json",
-      "bytes": 698,
-      "sha256": "799c922994bb353e91f99835e49550c63e4e484d58340b299c6d16635a7f1de7"
+      "bytes": 699,
+      "sha256": "c892e9b1f92323669c0b5fb5fda484139234943b51c25300a450f7af65951cab"
     },
     {
       "path": "plugins/codex/embercrank/.mcp.json",
@@ -114,23 +114,23 @@
     },
     {
       "path": "plugins/codex/embercrank/build.json",
-      "bytes": 1221,
-      "sha256": "4cf52392e631872fd1cebf3976b9c6b5883e33bdcc28d04793717f5df53c208d"
+      "bytes": 1222,
+      "sha256": "89cf540180eed2ad9c96eed2cfeff570e4aa57f266916c0ddd9770f501297fbc"
     },
     {
       "path": "plugins/codex/embercrank/cli.mjs",
-      "bytes": 94915,
-      "sha256": "2ad2915e3520f553d3d91e547d3358b805ae1e7c7a0a39854a175ea824252ed0"
+      "bytes": 140150,
+      "sha256": "351a2b38b4e9a78dbd9f17698d963b02f50db3c0fffc48d4271cf957a72aa86c"
     },
     {
       "path": "plugins/codex/embercrank/mcp.mjs",
-      "bytes": 817818,
-      "sha256": "1d5fd9cbc50fab071444109d141b564bc3367c6b8b42b9a097915265cccbbcab"
+      "bytes": 864818,
+      "sha256": "2813015549f72851cc6069fe4c19e50f7e6e970b54e70ab35d8f3f746d195714"
     },
     {
       "path": "plugins/codex/embercrank/skills/route/SKILL.md",
-      "bytes": 4998,
-      "sha256": "557041f68d906ece8bad545c7a0a194aaa643412e30cca011a5863a5e8130c4e"
+      "bytes": 6454,
+      "sha256": "0ff3039f7ec1f499b28bd4385eb491645ed409c28c784df6f168f471da08eaaf"
     }
   ]
 }
