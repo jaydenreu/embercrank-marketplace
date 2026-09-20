@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "releaseVersion": "0.1.0-beta.11",
+  "releaseVersion": "0.1.0-beta.12",
   "node": ">=22.13",
-  "sha256": "2813015549f72851cc6069fe4c19e50f7e6e970b54e70ab35d8f3f746d195714",
-  "cliSha256": "351a2b38b4e9a78dbd9f17698d963b02f50db3c0fffc48d4271cf957a72aa86c",
+  "sha256": "9fe3f72cc3fd03678a99cbc68687767adb0821508da54d1b56ac3ce172954693",
+  "cliSha256": "4d8e2c868370760b0b48811cce907acb190b980990bb76787d1bfbc5a1bbeff5",
   "bundledPackages": [
     {
       "name": "zod",

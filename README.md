@@ -9,7 +9,7 @@ This repository is released with immutable Git tags. Replace no part of the comm
 ### Codex
 
 ```text
-codex plugin marketplace add jaydenreu/embercrank-marketplace --ref v0.1.0-beta.11
+codex plugin marketplace add jaydenreu/embercrank-marketplace --ref v0.1.0-beta.12
 codex plugin add embercrank@embercrank --json
 ```
 
@@ -18,7 +18,7 @@ Start a new Codex session after installation, then ask Embercrank to check its c
 ### Claude Code
 
 ```text
-claude plugin marketplace add jaydenreu/embercrank-marketplace@v0.1.0-beta.11
+claude plugin marketplace add jaydenreu/embercrank-marketplace@v0.1.0-beta.12
 claude plugin install embercrank@embercrank
 ```
 

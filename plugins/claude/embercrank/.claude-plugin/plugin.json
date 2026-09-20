@@ -1,6 +1,6 @@
 {
   "name": "embercrank",
-  "version": "0.1.0-beta.11",
+  "version": "0.1.0-beta.12",
   "description": "Local coding-agent routing and bounded execution",
   "author": {
     "name": "Embercrank"
